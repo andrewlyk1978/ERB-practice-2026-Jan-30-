@@ -1,0 +1,322 @@
+13¡ü3 Python®Ø¬[wei Sir  2025-12-09_17.03.18_10.jpg
+3d array ¬äpuzzle name[6][1][2 ]Python WeiSir 2025-12-02_17.33.52~01.jpg
+a.captialoE() isdigit Python WeiSir 2025-12-02_15.01.47~01.jpg
+a=False or [] or {} or 0.0 Truth table Main.py Python WeiSir 2025-12-02_16.39.07~01.jpg
+Accounts view.py register from django.shortcuts import render django.contrib.auth.models  import message  method==post Python®Ø¬[wei Sir  2026-01-04_15.08Debugging_2.jpg
+Adsl§Þ³N ±µ¤J¤¬ÁpºôAdslModem HFcºôµ¸ CableModem Networking2025-10-30_18.22.45 ~01.jpg
+app_names=pages .Django.urls.py urlpattern=path about  Python®Ø¬[wei Sir  2025-12-18_17.40.50_14.jpg
+app_names=pages url.py urlpattern=path about localHost 8000  Python®Ø¬[wei Sir  2025-12-18_18.00.23_3.jpg
+App¤À¬y ListingsListing.HTml Admin Pages inde.Html  Python®Ø¬[wei Sir  2026-01-02_09.11.22~01.jpg
+Bashrc Gitconfig  name Python®Ø¬[wei Sir  2025-12-22_14.48.18_20.jpg
+Blob Tree  Python®Ø¬[wei Sir  2025-12-17_14.33.10_15.jpg
+Blobs Tress points  Python®Ø¬[wei Sir  2025-12-17_14.49.26_5.jpg
+Blobs Tress points Python®Ø¬[wei Sir  2025-12-17_14.50.09_3.jpg
+Bootstrap col-md-12 median ¨â¼hcontainer div html±Æª© Python®Ø¬[wei Sir  2026-01-09_15.25.21_21.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£   Python®Ø¬[wei Sir  2025-12-10_17.49.43_9.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£  2025-12-10_17.51.34_17.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£  Python®Ø¬[wei Sir  2025-12-10_17.10.18.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£  Python®Ø¬[wei Sir  2025-12-10_17.16.03.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£  Python®Ø¬[wei Sir  2025-12-10_17.27.05 ~01.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£ elif Python®Ø¬[wei Sir  2025-12-10_16.41.19_1.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£ elif Python®Ø¬[wei Sir  2025-12-10_16.41.19_20.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£Python®Ø¬[wei Sir  2025-12-10_17.17.30.jpg
+Calculator check float value x.isdigit Åç¥[´î­¼°£Python®Ø¬[wei Sir  2025-12-10_17.51_9.jpg
+Calculator if op== + Python®Ø¬[Wei sir 2025-12-10_17.52.27.jpg
+Calculator true expression Python®Ø¬[Wei sir 2025-12-05_10.31.56.jpg
+Calculator true expression Python®Ø¬[Wei sir 2025-12-05_10.42.56.jpg
+Calculator try Python®Ø¬[Wei sir 2025-12-10_17.52.27~02.jpg
+Call back function  defa(x,y) tuplenamespaces RAM  main.py Python call stack wei Sir compiler last in first out 2025-12-04_16.35.38~01_18_11zon.jpg
+call back function def a(x) x()  def b()Python wei Sir  2025-12-04_16.00.49~01_20_11zon.jpg
+Call back function return function z=a, b tuple Python wei Sir  2025-12-04_15.35.47~01_14_11zon.jpg
+check float value x.isdigit Åç¥[´î­¼°£  Python®Ø¬[wei Sir  2025-12-10_16.41.59_10.jpg
+check float value x.isdigit Åç¥[´î­¼°£  Python®Ø¬[wei Sir  2025-12-10_16.52.15_10.jpg
+check float value x.isdigit Åç¥[´î­¼°£ exp.split  except valueerror Python®Ø¬[wei Sir  2025-12-10_17.40.31_16.jpg
+check float value x.isdigit Åç¥[´î­¼°£ exp.split  Python®Ø¬[wei Sir  2025-12-10_17.32.14_8.jpg
+check float value x.isdigit Åç¥[´î­¼°£ exp.split Python®Ø¬[wei Sir  2025-12-10_17.08.28_11.jpg
+Cinfig setting.py  importlib.bootstrap Return bootstrap Wsgi application Config.wsgi Python®Ø¬[wei Sir  2025-12-24_10.22.42_10.jpg
+Cinfig ststic jsbmodal.js ¥´¿ù¦rfunction fucntionPython®Ø¬[wei Sir  2026-01-06_23.25debugging.jpg
+Class Person def &_init(self,name ,age) Python®Ø¬[wei Sir  2025-12-12_16.55.06_4.jpg
+Code. Pyenv shell python -V  Python®Ø¬[wei Sir  2025-12-16_10.20.38_14.jpg
+Compilier Bytecode Python wei sir 2025 Nov_1_11zon.jpg
+Conditional expression  Python wei Sir  2025-12-05_10.14.39~01.jpg
+Conditional expression def  if else return Python wei Sir  2025-12-05_09.41.19_12_11zon.jpg
+Conditional expression def  if else return Python wei Sir  2025-12-05_09.41.19~01.jpg
+Conditional expression if else 0-0  Python wei Sir  2025-12-05_10.30.23~01.jpg
+conditional expression if else 0-0 Python wei Sir  2025-12-05_10.43.27~01.jpg
+Conditional Expression If else Python Wei  IMG_20251207_184228~01_19_11zon.jpg
+Conditional summation Python®Ø¬[wei Sir  2025-12-09_11.41.06_18.jpg
+Confi settings.py  root_Urlconf=config.urls  backend WSGi django.template.context application app_dirs options   Python®Ø¬[wei Sir  2025-12-22_10.43.25_13.jpg
+config django.urls.py  app_name=pages django.contribut import path include Python®Ø¬[wei Sir  2025-12-18_18.00.49_1.jpg
+Config pages.urls.py django.contrib  index  html  endpoints urlpatterns Python®Ø¬[wei Sir  2025-12-22_09.16.41_2.jpg
+config path admin pages.url urlpatterns Python®Ø¬[wei Sir  2025-12-22_09.19.50_18.jpg
+config setting.py application_apps installed_apps django middleware  Python®Ø¬[wei Sir  2025-12-22_09.18.13_9.jpg
+Config setting.py default auto filed  media_root=os.path.join media_Url =_media _. default_Auto_Field=django.db.models.BigAutoField  djangoprojectPython®Ø¬[wei Sir  2025-12-24_16.12_1.jpg
+Config setting.py default database middleware template html db.sqlite Python®Ø¬[wei Sir  2025-12-18_14.47.45_5.jpg
+Config setting.py Django-admin startproject from pathLib imprort path dotenv load_dotenv Base_Dir secret key getenv path Python®Ø¬[wei Sir  2025-12-18_15_5.jpg
+config settings.py debug  django_apps application_apps installed_Apps middleware Python®Ø¬[wei Sir  2025-12-23_12.00.49_2.jpg
+config settings.py django_apps application_apps= pages.apps.pAges.config  templates Python®Ø¬[wei Sir  2025-12-22_09.10.55_6.jpg
+Config settings.py templates backend django.templates WSGi  dirs os.path.join Python®Ø¬[wei Sir  2025-12-22_10.32.55_14.jpg
+Config settings.py wsgi.py  default_Auto_Field=django.db.models.BigAutoField  djangoproject Python®Ø¬[wei Sir  2025-12-24_12.48.41_15.jpg
+Config static jsbmodal.js+Config static js main.js ¬A¸¹¥´¿ù JavaScript ¥´¿ù¦rfunction+def logout request  ·d¿ù render¦]­ìµLhtml redirect +Rooms_Choices ¿ù¥ª+dashboard º|³rÂI listing¦hs ±Æª©¿ù  python®Ø¬[ +Templatesº|DIV 2026-01-07debugging.jpg
+Config ststic js main.js ¬A¸¹¥´¿ù JavaScript Python®Ø¬[wei Sir  2026-01-06_23.32.40 ~01 debugging~01_17.jpg
+config urls.py  app_name=pages django.contribut import path include Python®Ø¬[wei Sir  2025-12-18_18.00_19.jpg
+Config URls¤À¬ysetting.py{% Statement %} app pages ²Ä¤G¦¸¤À¬yendpointPython®Ø¬[wei Sir  2025-12-22_16.51.31_8.jpg
+Config.py urls.py urlpatterns path Doctors Admin.py improt admin  from django.contrib admin.site.register Python®Ø¬[wei Sir  2025-12-24_16.29_5.jpg
+Config.url pages.url templates.pages Python®Ø¬[wei Sir ¤@¦¸¤À¬y endpoint about 2025-12-29_12.19.39 ~01_14.jpg
+Confog setting py DjangoprojectLib postgresql Sudo apt install libpq-dev python3-dev§ó·sdatabases default enginebame user password localhost  Python®Ø¬[wei Sir  2025-12-24_10.14_21.jpg
+CPython Compiling Compilier Steps Lexer Paaser Bytecode Generation Optimization aCall Stack Evaluation stackWeiSir  Block stock2025-11-28_22.47.48.jpg
+Ctrl °Ý¸¹ {% endcomment % }  href={% url 'listing' listing.id%} endif Pages viewp.py from django.shortcuts import render from listings models  import listings def index def(request) ¤À¬y about Python®Ø¬[wei Sir 2025-12-29_16.20~01.jpg
+Data type tuple  Hash TablePython wei Sir  2025-12-05_12.24.30~01.jpg
+Data type tuple  Hash TablePythonPython wei Sir  2025-12-05_12.57.04~01_30_11zon.jpg
+def a() functionµ²ºc NameSpaces Heap  return value a() a()  Python Wei Sir 2025-12-03_17.20.21~01_10.jpg
+def a() functionµ²ºc NameSpaces Heap  return value locals() globals() Python Wei Sir 2025-12-03_17.48.59~01.jpg
+def a() functionµ²ºc NameSpaces Heap  return value none Python Wei Sir 2025-12-03_16.49.41~01_13.jpg
+def a() functionµ²ºc NameSpaces Heap  return value Python Wei Sir 2025-12-03_16.48.21~01.jpg
+Def a(x,y ) expression Python®Ø¬[Wei sir 2025-12-05_12.50.01.jpg
+def about request.path pages view.py listing.object.order_by('list_date') Python®Ø¬[wei Sir  2025-12-31_09.25~01_28.jpg
+def f3(x,y,¡Ñz,d,¡Ñkwargs) Python®Ø¬[wei Sir  2025-12-11_15.54.16_16.jpg
+def logout request  ·d¿ù render¦]­ìµLhtml redirectPython®Ø¬[wei Sir request.method  2026-01-06_16.40Debugging~01~01_8.jpg
+def my_func(a,b) global function nonlocal local  Python®Ø¬[wei Sir  2025-12-11_11.19.24_14.jpg
+def my_func(a,b) global function nonlocal local function Python®Ø¬[wei Sir  2025-12-11_11.29.30_19.jpg
+def my_func(a,b) global function nonlocal local Python®Ø¬[wei Sir  2025-12-11_11.24.48_8.jpg
+def my_func(a,b) global function nonlocal local Python®Ø¬[wei Sir  2025-12-11_11.52.10_3.jpg
+def my_func(a,b) global function nonlocal localPython®Ø¬[wei Sir  2025-12-11_11.26.32_10.jpg
+defba main.py  Python wei Sir  2025-12-05_09.24.59~01.jpg
+Django Administration localhost 8000 listings Python®Ø¬[wei Sir  2025-12-24_16.07.31_11.jpg
+Django clinic Python®Ø¬[wei Sir  2025-12-18_16.44.27_10.jpg
+Django Erb config Setting.py  databases port¦ì°µ5432Python®Ø¬[wei Sir  2026-01-01_17.15.09 ~01~01~01 Debugging.jpg
+Django names index about listings.html  git navbar  admin Python®Ø¬[wei Sir  2025-12-23_11.33.12_13.jpg
+Django-admin .gitignore startproject config manage.py runserver pip freeze  Python®Ø¬[wei Sir  2025-12-16_17.47.20_19.jpg
+django.MiddleWare django.contrib secret_key setting.py installed apps Python®Ø¬[wei Sir  2025-12-18_14.12.51_10.jpg
+django.MiddleWare Plugin django.contrib secret_key setting.py installed apps Templates About  Root_urlconf config.url Python®Ø¬[wei Sir  2025-12-18_14.45.06_6.jpg
+django.MiddleWare Plugin django.contrib secret_key setting.py installed apps Templates About Python®Ø¬[wei Sir  2025-12-18_14.39.36_20.jpg
+Django¸Ëpostgres SQL  python maange.py makemigrations migrate mounting database  lublic.Django.migrations  pgAdmi Python®Ø¬[wei Sir  2025-12-24_11_4.jpg
+Django¸Ëpostgres SQL  python maange.py makemigrations migrate mounting database Python®Ø¬[wei Sir  2025-12-24_11.00.10_23.jpg
+Doc strings Python ±Nfunction¼g¦¨comment def pass help WeiSir 2025-11-28_10.23.57~01~01_1.jpg
+Doctors Admin.py improt admin  from django.contrib admin.site.register  Python®Ø¬[wei Sir  2025-12-24_16.22.23_8.jpg
+Doctors listings model.py view py  import models from Django.db  class Doctor def __str__(self) self.name charFieldPython®Ø¬[wei Sir  2025-12-24_12.08_6.jpg
+Doctors model.py view py  import models from Django.db  class Doctor def __str__(self) self.namePython®Ø¬[wei Sir  2025-12-24_11_2.jpg
+echo $Shell Python®Ø¬[Wei sir 2025-12-15_10.58.11.jpg
+empty Git respository ­¶°ÝPython®Ø¬[wei Sir  2025-12-17_11.53.48_7.jpg
+Erb½Òµ{ Solidity¥Í¦¨½sÄ¶Bytecode AbI ´¼¯à¦X¬ù ¥H¤Ó§{¥H¤Ó¹ô ¦X¬ùID EVM20251210_174148~01.jpg
+Erb½Òµ{ Uow ¥î½ü°^ BlockChain°Ï¶ôÃì init Hyperledger Fabric ±ÂÅv°Ï¶ôÃì¥­¥x ¸`ÂIÃþ«¬ OrderersPeers  ¤k¤l°s«á¨«±¶®|¤`2025-10-16_21.55.59~01~01.jpg
+Erb½Òµ{ Uow ¥î½ü°^ BlockChain°Ï¶ôÃì Testnet Mainnet ­n¦³¨¬°÷¥N¹ôToken2025-10-16_21.51.02~01.jpg
+Erb½Òµ{ Uow ¥î½ü°^ BlockChain°Ï¶ôÃì ¥H¤Ó§{ ¤½¦³Ãì ¤ñª«¹ô´¼¯à¦X¬ù2025-10-16_21.42.07~01.jpg
+Erb½Òµ{ Uow ¥î½ü°^ BlockChain°Ï¶ôÃì ¥h¤¤¤ß¤Æ¤À´²¦¡±b¥» ¦w¥þ°ÝÃD ´¼¯à¦X¬ù¿ù»~½s½X2025-10-16_21.39.40~01.jpg
+Erb½Òµ{ Uow ¥î½ü°^ BlockChain°Ï¶ôÃì ½s¼gChainCode Golang Hyperledger Fabric «OÀIª«¬y»È¦æ©Ð¦a²£ÃÒ¨é¥æ©ö»È¦æ2025-10-16_21.56.59¤k¤l°s«á~01_21.jpg
+Erb½Òµ{ Uow ¥î½ü°^ BlockChain°Ï¶ôÃì¥H¤Ó§{ Äq¤u¥æ©öµ{§Ç ¸`ÂI§ó·s2025-10-16_21.47.54~01.jpg
+f ¡¨variable f¡¨variable ]fill] [align] [Width] [type] fornat the value ¡¨{'Name '_10} left alignment apple ^20  align center widthPython WeiSir 2025-12-02_15.48.31~01_20.jpg
+f ¡¨variable f¡¨variable ]fill] [align] [Width] [type] fornat the value ¡¨{'Name '_10} left alignment Python WeiSir 2025-12-02_15.43.21~01_25.jpg
+f ¡¨variable f¡¨variable ]fill] [align] [Width] [type] fornat the value ¡¨{'Name '_10} left alignment Python WeiSir 2025-12-02_15.45.00~01_29.jpg
+f-Strings print format  f_{x}+{y} Python WeiSir 2025-12-02_15.35.27~01.jpg
+factorial dictionary Python®Ø¬[wei Sir  2025-12-09_11.42.19_6.jpg
+Fetch.dict zipfile Python®Ø¬[Wei sir 2025-12-07_20.38.58.jpg
+filelist.txt
+f¡¨variable ]fill] [align] [Width] [type] fornat the value ¡¨{'Name '_10} left alignment apple ^20  -^20 align fill with dash center width Python WeiSir 2025-12-02_15.50.10~01_12.jpg
+f¡¨{'app'} __ {10}    f¡¨variable ]fill] [align] [Width] [type] fornat the value ¡¨{'Name '_10} left alignment apple ^20  align center width Python WeiSir 2025-12-02_15.54~01.jpg
+f¡¨{1234567¡G,}  f¡¨variable ]fill] [align] [Width] [type] fornat the value ¡¨{'Name '_10} left alignment apple ^20  -^20 align Python WeiSir 2025-12-02_15.58.19~01.jpg
+Get Post http method listing views.py page=request.GET.get('page')Python®Ø¬[wei Sir  2025-12-30_09.30.17~01.jpg
+Git bisect Ý¯good Ý¯bad ¤è«KÝ¯µfbugs debugging Python®Ø¬[wei Sir  2026-01-16_15.21.04¤À¤e¤e§¹¤S¤e_27.jpg
+Git Blob  Python®Ø¬[wei Sir  2025-12-17_14.32.20_5.jpg
+git Clone ssh   Python®Ø¬[wei Sir  2025-12-17_16.57.27~01_7.jpg
+Git Hash object sha1 echo git RestfulApi  rest ArchitecturePython®Ø¬[wei Sir  2025-12-17_14.22.34_19.jpg
+Git Hash object sha1 git  RestfulApi  rest ArchitecturePython®Ø¬[wei Sir  2025-12-17_14.12.32_19.jpg
+git log --oneline -all  merge branch new Python®Ø¬[wei Sir  2025-12-17_10.15.36_9.jpg
+Git log git commit -m git add Python®Ø¬[wei Sir  2025-12-22_14.32.32_14.jpg
+Git merge commitb Python®Ø¬[wei Sir  2025-12-17_17.39.39_17.jpg
+git remote add origin git push -u origins main nkdir cd git clone  Git ssh-keygen -t  ed25519  Python®Ø¬[wei Sir  2025-12-17_16.54.57_15.jpg
+Git ssh-keygen -t  ed25519 emailPython®Ø¬[wei Sir  2025-12-17_16.01.44_15.jpg
+Git templated ºõ¯¸¤À¬y narbar.html listings searchPython®Ø¬[wei Sir  2025-12-23_12.02.38_13.jpg
+gitb hash object Blob echo RestfulApi  rest ArchitecturePython®Ø¬[wei Sir  2025-12-17_14.25.23_6.jpg
+Gitconfig abc difftool  Python®Ø¬[wei Sir  2025-12-17_10.46.06_13.jpg
+Gitconfig abc difftool Python®Ø¬[wei Sir  2025-12-17_10.44.46_4.jpg
+Gitconfig filtergit- lfs  Python®Ø¬[wei Sir  2025-12-22_14.50.36~01_11.jpg
+GitHub merge arron Origin power9k Python®Ø¬[wei Sir zsh oh-my-zsh 2026-01-06_09.31.16.jpg
+Gits objects compressÀ£ÁY deltas packgile tree Python®Ø¬[wei Sir  2025-12-17_14.51.24_2.jpg
+hist_stamps histstamps zshrc ohMyZsh powerlevel9k Pyenv ohmz.sh  sudo apt install wget apt install curl Plugins git zsh-autosuggestions zsh-syntax virtualenv pyenv  Python®Ø¬[wei Sir  2025-12-15_16.54.54_5.jpg
+hist_stamps histstamps zshrc ohMyZsh powerlevel9k Pyenv ohmz.sh  sudo apt install wget apt install curl Plugins git zsh-autosuggestions zsh-syntax virtualenv pyenv Python®Ø¬[wei Sir  2025-12-15_16_8.jpg
+hsi.csv utf-8 13¡ü3 f.read Python®Ø¬[wei Sir  2025-12-09_17.35.12_17.jpg
+Html Head body config setting.py url.py  base.html Doc type ¤@¬y¤À¬yPython®Ø¬[wei Sir  2025-12-29_14.08.37_6.jpg
+i for i Range generator  Python yield ®Ø¬[wei Sir  2025-12-08_10.36.47_8.jpg
+import decimal.localcontext getcontext().precPython®Ø¬[wei Sir  2025-12-09_17.09_8.jpg
+import dio as d  import  tessera tria Python®Ø¬[wei Sir  2025-12-12_17.23.56_3.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode n.isdigit(n) try except ²Ä¤G­Ó¼g¬¡Python WeiSir 2025-12-01_16.32.01~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode varcode .co_,consts co_ code Python WeiSir 2025-12-01_17.28.01~01_26_11zon.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode ²Ä¤T­Ó¼gªk Python WeiSir 2025-12-01_16.56.19~01_4.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode ²Ä¤T­Ó¼gªkPython WeiSir 2025-12-01_17.22.19~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode²Ä¤@­Ó¼gªk Python WeiSir 2025-12-01_16.13.31~01_23.jpg
+import pyscopg2 as Database.Lib postgresql Sudo apt install libpq-dev python3-dev§ó·sdatabases Python®Ø¬[wei Sir  2025-12-24_10.25.24_11.jpg
+Index.html {%if for listing in listings%} div Pages viewp.py from django.shortcuts import render from listings models  import listings def index def(request) ¤À¬y aboutPython®Ø¬[wei Sir  2025-12-29_14.40.53~01.jpg
+Init empty sha1 Git  repository Python®Ø¬[wei Sir  2025-12-17_14.26.30_19.jpg
+Initi empty git hash-object  git add. code- insiders . git commit- m  ls-l  Python®Ø¬[wei Sir  2025-12-17_14.45.03_7.jpg
+insert mapping Python®Ø¬[Wei sir 2025-12-09_11.43.35~03.jpg
+invert mapping  dictionary.items() Python®Ø¬[wei Sir  2025-12-09_11.41.58_16.jpg
+items .key set not x%3  Python®Ø¬[wei Sir  2025-12-09_11.14.56_9.jpg
+lambda A lambdaA+B  tax calculator outer returnx¡Ñy  x(1)(2) ¬A¸¹¹Bºâinner introspection Python®Ø¬[wei Sir  2025-12-09_15.26.31_6.jpg
+li.items() class 'dic_itemst' Python®Ø¬[wei Sir  2025-12-09_11.10.21_13.jpg
+Lib postgresql Sudo apt install libpq-dev python3-dev§ó·sdatabases Python®Ø¬[wei Sir  2025-12-24_09.36.32_9.jpg
+Linux terminal pip freeze pip list virtualenv-clone Python®Ø¬[wei Sir  2025-12-18_15.06.50_22.jpg
+list comprehension dict.items()Python®Ø¬[Wei sir 2025-12-09_11.43.36.jpg
+list comprehension i+j in range for i!#2   Python®Ø¬[wei Sir  2025-12-09_11.31.20_4.jpg
+list comprehension Python®Ø¬[Wei sir 2025-12-09_11.43.36~01.jpg
+List comprehension½m²ß Python®Ø¬[wei Sir  2025-12-11_12.14.31_13.jpg
+list comprehension½m²ßPython®Ø¬[wei Sir  2025-12-11_12.12.18_13.jpg
+Listing model.py django.db import models from doctor.models import Doctorº|default  Python®Ø¬[wei Sir  2026-01-04_23.08.04debugging.jpg
+Listings admins.py django.contrib import admin import Doctor from models Class DoctorAdmin  adnin.site.registerPython®Ø¬[wei Sir  2025-12-24_16.07.18_12.jpg
+Listings chocies.py district_choices ºu°Ê¦¡«ö¶s room_choices Python®Ø¬[wei Sir  2025-12-31_14.39.30~01.jpg
+Listings model.py Taggit Python®Ø¬[wei Sir  2026-01-06_22.14.04 debugging.jpg
+listings view.py listings django.shortcuts import render .mdel import listing paginator .objects.filter  Python®Ø¬[wei Sir  2025-12-30_09.22~01~01.jpg
+Listings views.py search DebugToolbar request.get  paginator SQl query Python®Ø¬[wei Sir  2026-01-02_11.26.53~01_15.jpg
+List[] slice Python®Ø¬[wei Sir  2025-12-08_11.30.44_7.jpg
+local variable non local variable global variable lambda .format(x)Python®Ø¬[wei Sir  2025-12-11_11.17.36_15.jpg
+local variable non local variable global variable LEHB rule  Python®Ø¬[wei Sir  2025-12-11_11.09.33.jpg
+local variable non local variable global variable Python®Ø¬[wei Sir  2025-12-10_18.29.40.jpg
+Merge list into dictionaryfor k ,V zip( key, values) invert mapping Python®Ø¬[wei Sir  2025-12-09_11.41.44_19.jpg
+Merge lists into dictionary Python®Ø¬[Wei sir 2025-12-09_11.43.35.jpg
+Micsoft vs code seting setFonts·¾¤k Python®Ø¬[wei Sir¤¶²Ð 2026-01-05_10.05.32 ~01_24.jpg
+MVc¬[ºc DjangoURl Model database View Control  template html Python®Ø¬[wei Sir  2025-12-18_16.59.43_11.jpg
+MVc¬[ºc Model database View Control  template htmlPython®Ø¬[wei Sir  2025-12-18_16.56.15_4.jpg
+nested dictionary comprehension  Python®Ø¬[wei Sir  2025-12-09_11.42.06_3.jpg
+Nested dictionary remove vowels mapping Python®Ø¬[Wei sir 2025-12-09_11.43.35~01.jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.14.03 .jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.14.03 ~01.jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.14.03 ~02.jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.31.16 ~01.jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.34.06 .jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.36.53 .jpg
+Networkingºôµ¸¤uµ{2025-11-22_20.36.53 ~01.jpg
+outer returnx¡Ñy  inner introspection calculator .2f  Python®Ø¬[wei Sir  2025-12-09_15.14.42_2.jpg
+outer returnx¡Ñy  inner introspection local variable hex taxcalculator  Python®Ø¬[wei Sir  2025-12-09_14.51.20_18.jpg
+outer returnx¡Ñy  inner introspection local variable hex taxcalculator Python®Ø¬[wei Sir  2025-12-09_14.46.25_17.jpg
+outer returnx¡Ñy  inner introspection local variable hex taxcalculator us_tax  Python®Ø¬[wei Sir  2025-12-09_15.10.18_9.jpg
+outer returnx¡Ñy  inner introspection local variable multi scoped variables hex taxcalculator outer.x inner.x intermediary object Python®Ø¬[wei Sir  2025-12-09_14.52.09_4.jpg
+outer returnx¡Ñy  inner introspection Python®Ø¬[wei Sir  2025-12-09_14.25.07_16.jpg
+pages apps.py  django.apps import appConfig Python®Ø¬[wei Sir  2025-12-22_09.17.55_1.jpg
+pages Apps.py application_apps installed apps middleware  MVc¬[ºc Model database View Control template html Python®Ø¬[wei Sir  2025-12-18_17.14.45_11.jpg
+Pages view.py def index(request) def about(request)Rooms_Choices ¿ù¥ªRoom_choicres django.shortcut import renderPython®Ø¬[wei Sir  2026-01-04_23.32.45 debugging.jpg
+Pages viewp.py from django.shortcuts inport render fron listings models  import listings def index def(request) ¤À¬y about Python®Ø¬[wei Sir  2025-12-29_14.30.44~01_17.jpg
+Pages views.py def about (request )django.shortcuts from doctors.models Python®Ø¬[wei Sir  2025-12-31_14.30.18~01.jpg
+Pages views.pyfrom django.shortcuts import render listing.shortcuts def index request doctor.objects.orfet_by Python®Ø¬[wei Sir  2025-12-31_14.38.51~01~01.jpg
+pages.url.py  import path fro. django.urls import views  urlpattern =[views.index] app_name=pages templates partials Python®Ø¬[wei Sir  2025-12-23_11.35.02_20.jpg
+Pages.views.py about from django.shortcuts django.httpResponse def index def about request  Python®Ø¬[wei Sir  2025-12-22_09.50.32_3.jpg
+Pages.views.py about from django.shortcuts django.httpResponse def index def about request Python®Ø¬[wei Sir  2025-12-22_09.21.28_9.jpg
+Pages.views.py about from django.shortcuts django.httpResponse def index def about request Python®Ø¬[wei Sir  2025-12-22_09.23.16_13.jpg
+Pgadmin Python manage.py makemigration  python manage.py mirgrate§ó·sDatabase Python®Ø¬[wei Sir  2025-12-24_10.47database_18.jpg
+pgadmin.org Git setup repistory Python®Ø¬[Wei sir 2025-12-23_17.23.24.jpg
+pip install phonenumbers Geekforseeks Python®Ø¬[wei Sir  2025-12-31_11.31.12~01.jpg
+Pip install pscopg2 importlib bootstrap Python®Ø¬[wei Sir  2025-12-24_10.28.25_7.jpg
+Print format Name %s Age %.2f len(a.capitalize()_3 )Python WeiSir 2025-12-02_15.12.08~01.jpg
+Print format Name %s Age %.2f string format str(age) Python WeiSir 2025-12-02_15.17.09~01.jpg
+Print format string concat Python WeiSir 2025-12-02_15.23.38~01.jpg
+Print format string concat stro(age) {x} .format Python WeiSir 2025-12-02_15.24.38~01.jpg
+Print format string concat {0}.format(name,age) Python WeiSir 2025-12-02_15.21.56~01.jpg
+print(txt.Format) price.2f w3schools Python WeiSir 2025-12-02_15.32.06~01.jpg
+Pyenv Gloabal  Django Python®Ø¬[wei Sir  2025-12-16_11.34.35_7.jpg
+Python Expression ÉNOperator ¨â­ÓPrint WeiSir 2025-11-28_09.43.57~01~01_12.jpg
+Python manage.py makemigration  python manage.py mirgrate§ó·sDatabase Python®Ø¬[wei Sir  2025-12-24_10.41.56_15.jpg
+Python manage.py startApp pages bootstrap Python®Ø¬[wei Sir  2025-12-22_10.43.19_4.jpg
+PythonSourceCode  WeiSir Compiler Bytecode Load global  call function pop top  load constant return value  2025-11-26_16.00.47~01.jpg
+Python¹ï¬A¸¹¸ÌÀY¯S§O¼e®e x=y=1 ©ñ¤Jaddress id(x) id(y) WeiSir 2025-11-28_10.44.53~01~01.jpg
+Python®Ø¬[wei Sir  2025-12-16_15.52.23 _11.jpg
+Python®Ø¬[Wei sir 2025-12-15_16.42.57.jpg
+Python®Ø¬[Wei sir 2025-12-15_16.51.55.jpg
+Python®Ø¬[Wei sir 2025-12-23_17.23.27.jpg
+Python®Ø¬[Wei sir ¦ó¤épresentation 2025-11-27_21.10.57~01.jpg
+Python®Ø¬[®É¶¡ªí IMG-20251124-WA0003.jpg
+Python¦Òexpression logic ¬A¸¹Àu¥ýÅv  Python Wei Sir 2025-12-03_16.31.02~01_5.jpg
+Python¦Òexpression logic ¬A¸¹Àu¥ýÅv 2025-12-03_16.26.58~01_10.jpg
+Python¦Òexpression logic ¬A¸¹Àu¥ýÅv 2025-12-03_16.34.37~01.jpg
+Python¦Òexpression logic ¬A¸¹Àu¥ýÅv 2025-12-03_16.34.56~01_22.jpg
+Python¦Òexpression logic ¬A¸¹Àu¥ýÅvWei Sir 2025-12-03_16.07.37~01_3.jpg
+Range yield slice  Python®Ø¬[ last postionCM_Photogrid_1765161675149~01.jpg
+Restful APl ­¶°ÝPython®Ø¬[wei Sir  2025-12-17_12.20.57_5.jpg
+RestfulApi  rest Architecture BLob delimiiter Python®Ø¬[wei Sir  2025-12-17_14.10.35_6.jpg
+RestfulApi  rest Architecture http method resource based URls getTourByUser Python®Ø¬[wei Sir  2025-12-17_12.39.14_12.jpg
+RestfulApi  rest Architecture http method resource based URls Python®Ø¬[wei Sir  2025-12-17_12.35.06_8.jpg
+RestfulApi  rest Architecture Python®Ø¬[wei Sir  2025-12-17_12.21.48_18.jpg
+RestfulApi  rest Architecture ºô¯¸Resource EndpointsPython®Ø¬[wei Sir  2025-12-17_12.30.25_4.jpg
+RestfulApi  rest Architecture. http method resource based URls getTourByUserPython®Ø¬[wei Sir  2025-12-17_12.46.58_9.jpg
+RestfulApi  rest Architecturehttp method resource based URls getTourByUser json Data  Python®Ø¬[wei Sir  2025-12-17_12.44.46_12.jpg
+RestfulApi  rest ArchitecturePython. ¥[±KSha1 cryptographicbhash function http method resource based URls getTourByUser ®Ø¬[wei Sir  2025-12-17_14.08.38_15.jpg
+RestfulApi rest Architecture natorus resource based URls htttp method CRUD Python®Ø¬[wei Sir  2025-12-17_12.32.24_14.jpg
+Rounding error Â_¥yPython WeiSir 2025-12-01_14.38.44~01.jpg
+Sales_Tax calculator Python®Ø¬[Wei sir 2025-12-09_15.15.13.jpg
+secret_key setting.py installed apps  Python®Ø¬[ Allowed_hosts wei Sir  2025-12-18_14.11.44_21.jpg
+set theory A_B A&B A^B a diff bPython®Ø¬[wei Sir  2025-12-08_12.31.42_6.jpg
+setting.py Django Apps MVc¬[ºc Model database View Control  template htmlPytho  Python®Ø¬[wei Sir  2025-12-18_17.08.26_7.jpg
+slice(x,y,z) i for i Range generator  Python®Ø¬[wei Sir  2025-12-08_10.39.37_7.jpg
+slice¤Á¤ù Python®Ø¬[wei Sir  2025-12-08_16.25.45_11.jpg
+StartAppsPython®Ø¬[wei Sir  2026-01-16_20.02.09~01.jpg
+staticURl Config setting.py  Python®Ø¬[wei Sir  2025-12-18_15.00.04_10.jpg
+sum v for k flatten ascII value  Python®Ø¬[Wei sir 2025-12-09_11.43.36~03.jpg
+Superset.apache.org pup install psycopg2  install_Django stuff export PG home  Python®Ø¬[wei Sir  2025-12-24_10.26_18.jpg
+Template account dashboard ¥X¨âbuttonPython®Ø¬[wei Sir  2026-01-06_15.41.01~01_13.jpg
+Template admin extends load statics block branding base_Site.html Python®Ø¬[Wei sir CM_Photogrid_1767114335304~01~01.jpg
+Template partials alert.html Python®Ø¬[wei Sir  2026-01-05_11.02.31.jpg
+Template Partials navbar  Python®Ø¬[wei Sir  2026-01-05_12.45.35_9.jpg
+Template-base.site.htmlº|¥ªStatic css admin.css Python®Ø¬[wei Sir  2026-01-01_23.38.20~01Debugging.jpg
+Templated listings.html section div{%endfor %} {%endif %} {%endblock%}Python®Ø¬[wei Sir  2025-12-29_18.00.57~01.jpg
+Templates accounts dashboard º|³rÂI listing¦hs ±Æª©¿ù Ú»¿ùhtmlPython®Ø¬[wei Sir  2026-01-07_00.48.54 Debugging_22.jpg
+Templates admin. base_site.html{ endblock extra_style} Python®Ø¬[wei Sir  2025-12-31_01.01.22 ~02~01~01.jpg
+Templates listings listing.html href={% url 'pages index%} {%listing listing index%} Python®Ø¬[wei Sir  2025-12-30_14.32.28~01.jpg
+Templates listings listing.html {% extends base.html %} {% load static % } {%block content %}base.htmlPython®Ø¬[wei Sir  2025-12-23_15.05.35_1.jpg
+Templates pages index.html Python®Ø¬[wei Sir  2025-12-22_11.14.18_2.jpg
+Templates pages index.html Python®Ø¬[wei Sir  2025-12-22_15.13.50_7.jpg
+Templates pages index.html Python®Ø¬[wei Sir  2025-12-22_17.20.52 _17.jpg
+Templates pages index.html Python®Ø¬[wei Sir  2025-12-22_17.21.12 _11.jpg
+Templates pages index.html Python®Ø¬[wei Sir  2025-12-23_09.37.59 _6.jpg
+Templates pages index.html Python®Ø¬[wei Sir  2025-12-23_09.58.00 _4.jpg
+Templates pages index.html topbar navbar % endlock% Python®Ø¬[wei Sir  2025-12-22_11.45.14_1.jpg
+Templates pages index.html {% else %} {% if  about request.path %}Python®Ø¬[wei Sir  2025-12-23_10.09.32_12.jpg
+Templates pages index.html {%Statement%} {%static img about%}PythonPython®Ø¬[wei Sir  2025-12-22_17.17.20_1.jpg
+Templates pages index.html {%Statement%} {%static img about%}Python®Ø¬[wei Sir  2025-12-22_17.16.00_8.jpg
+Templates partials footer toolbar {%if about request.path %} {%else %}navbar.html request.path Python®Ø¬[wei Sir  2025-12-23_15.29.55_2.jpg
+Templates Partials _navbar.html if request.path¥ý©wSymbol ¥ý Python®Ø¬[wei Sir  2026-01-05_00.31.32Debugging.jpg
+Templates.listings.listing.html º|¥ªdiv Thumbnails before FieldsPython®Ø¬[wei Sir  2026-01-02_00.12.53Debugging.jpg
+timeZone Config setting.py default database middleware template html Python®Ø¬[wei Sir  2025-12-18_14.50.11_3.jpg
+Truth table b=1 and 0 and {1} Python WeiSir 2025-12-02_16.46.18~01_11_11zon.jpg
+Truth table defaultCitu=_Tst_ city='kl' Python WeiSir 2025-12-02_16.53.46~01.jpg
+Truth table defaultCitu=_Tst_ city='kl' Python WeiSir 2025-12-02_17.01.31~01.jpg
+Tuple ¬A¸¹ Python Wei Sir 2025-12-03_15.09.04~01.jpg
+Unix Liinx ¾ú¥v¹ÏPython WeiSir wiki 2025-12-02_14.00.55~01~01_16.jpg
+UOw Erb°Ï¶ôÃì½Òµ{ Orders peers ±ÂÅv¥­¥xHyperledger fabric Mainnet cahincode Golang SolodityABi Bytecode ´¼¯à¦X¬ù¥H¤Ó¹ô¥H¤Ó§{202511 (2).jpg
+Url.pyºô¯¸¤À¬y django.contributRoot URlpattern endpoint apps path admin Python®Ø¬[wei Sir  2025-12-18_15.04.47_12.jpg
+urls.pyºô¯¸¤À¬y  index.html about.htmlPython®Ø¬[wei Sir  2025-12-22_09.56.36_14.jpg
+virtual environment  ¸Ëpyenv install-L Python®Ø¬[wei Sir  2025-12-16_09.58.21_1.jpg
+virtualenv zshrc  export pyenv_root export path eva pyenv plugins Python®Ø¬[wei Sir  2025-12-16_15.30.16_3.jpg
+virtualenv zshrc  export pyenv_root export path eva pyenv pluginsPython®Ø¬[wei Sir  2025-12-16_14.34.22_20.jpg
+virtualenv zshrc export pyenv_root export zsh path eva pyenv plugins  Python®Ø¬[wei Sir  2025-12-16_15.36.19_5.jpg
+Virtualenvs .zshrc .oh-my-zsh hist_Stamps histsize plugins git zsh-autosuggestions plugins git powerlevel9k eval pyenv init .path Python®Ø¬[wei Sir  2025-12-16_15.37.15_2.jpg
+Virtualenvs .zshrc .oh-my-zsh hist_Stamps histsize plugins git zsh-autosuggestions plugins git powerlevel9k Python®Ø¬[wei Sir  2025-12-16_15.37.03_4.jpg
+Virtualenvs .zshrc .oh-my-zsh hist_Stamps histsize plugins git zsh-autosuggestions plugins git powerlevel9k Python®Ø¬[wei Sir  2025-12-16_15.37.20_5.jpg
+Virtualenvs .zshrc .oh-my-zsh Python®Ø¬[wei Sir  2025-12-16_15.36.53_2.jpg
+virtualenvwrapper zshrc  workon export pyenv_root export path eva pyenv plugins Python®Ø¬[wei Sir  2025-12-16_15.30.46_3.jpg
+VsCode GreatIcons Code  Python®Ø¬[wei Sir  2025-12-18_15.29.04_21.jpg
+WebHosting hosfc  Python®Ø¬[wei Sir  2025-12-18_16.21.43_1.jpg
+webShop index.html styles.css script.js images  Python®Ø¬[wei Sir  2025-12-17_10.03.10_2.jpg
+while loop ¥[controller´£¿ô Python®Ø¬[wei Sir  2025-12-11_10.06.17.jpg
+while_ Except else finally  Python®Ø¬[wei Sir  2025-12-08_09.21.00_10.jpg
+while_ Except else finally  Python®Ø¬[wei Sir  2025-12-08_09.28.25_16.jpg
+WindowsMacOsLinux­ø  abc line Feed carriage return  Python®Ø¬[wei Sir  2025-12-17_10.37.47_7.jpg
+WindowsMacOsLinux­ø  abc line Feed carriage return Python®Ø¬[wei Sir  2025-12-17_10.40.43_18.jpg
+workon8 pip freeze code. Python®Ø¬[wei Sir  2025-12-16_17.21.35_20.jpg
+Youtube®v¥S§@«~ §õ¥i¤Ò¦P¤@©¡Python WeiSir 2025-12-01_17.48.20~01_8.jpg
+Youtube®v¥S§@«~ §õ¥i¤Ò¦P¤@©¡Python WeiSir 2025-12-01_17.48.20~01~01_9.jpg
+Zch command python -V  Python®Ø¬[wei Sir  2025-12-16_11.50.33_3.jpg
+Zeal comes with188 Python WeiSir 2025-12-02_14.56.34~01~01.jpg
+Zh abc.com urls.pyºô¯¸¤À¬y index about  Python®Ø¬[wei Sir  2025-12-22_11.26.20_17.jpg
+Zsh theme powerlevel9k  pyenv prompt export zsh=$home  Python®Ø¬[Wei sir 2025-12-18_18.54.44.jpg
+zshrc powerlevel9k Pyenv ohmz.sh  sudo apt install wget apt install curl Python®Ø¬[wei Sir  2025-12-15_16.36.43_5.jpg
+zshrc yenv ¸Ëoh-my-zsh zch-syntax-highlighting zshautosuggestions plugin ohmz.sh  sudo apt install wget apt install curl Python®Ø¬[wei Sir  2025-12-16_10.12.48_12.jpg
+{% extends admin bade.html} load static Templates admin base_site.html Python®Ø¬[wei Sir  2025-12-31_01.01~01.jpg
+{% if listing.photo&1%%} endif Templates listings listing.html href={% url 'pages index%} {%listing listing index%} Python®Ø¬[wei Sir  2025-12-30_15.05~01.jpg
+{% if listings.has.other.pagds %} listings listing.html Get Post http method listing views.py page=request.GET.get('page') endif endblock Python®Ø¬[wei Sir  2025-12-30_09.4o~01.jpg
+{% if myp_doctors %}  {% for myp_ doctor in mvp_doctors%} endfor endif Templates  pages about.html Python®Ø¬[wei Sir  2025-12-31_11.25~01.jpg
+{{listing.dustricy}} {{listing.district}}_apnumberPages viewp.py from django.shortcuts import render from listings models  import listings def index def(request) ¤À¬y about Python®Ø¬[wei Sir  2025-12-29_16.38.12~01~01.jpg
+{{listing.list_Date_timesince}} href=_{%url % listing.id%}_Pages index.html viewp.py from django.shortcuts import render from listings models  import listings def index def(request) ¤À¬y aboutPython®Ø¬[wei Sir  2025-12-29_16.39~01.jpg
+¥X®u²v­pºâ Python wei sir whatapps½Ð°² ²Ä¤@°óIMG_20251124_102518~01_16.jpg
+¦a§} Value Range(1,2,3) Python®Ø¬[wei Sir  2025-12-08_10.51.51_15.jpg
+¥´¦L¬P¬P array.(limit).fill(0) const linit let count math.abs limit-count Python®Ø¬[wei Sir  2025-12-11_11.52.55_12.jpg
+ºôµ¸¤uµ{®v MBaud ¥úÅÖÂùµ±½u °Ò¹ý´µ¯S½s½X Adsl cambelModemMbaud QPsk Adsl hfc  ¥úÅÖ³q°T Dbm CM_Photogrid_1765285118640 (1).jpg
+¸ËDjango¸Ë linux sudo apt-get update bzip2 libbz2-dev build-essential  libssl-dev libsqlite3-dev libff tk-dev liblzma libreadline-devappleMac¾÷ Brew ruby gcc  Python®Ø¬[wei Sir  2025-12-16_09.37.50_16.jpg
+¹q¸£Romding error Python WeiSir 2025-12-01_14.32.42~01.jpg
