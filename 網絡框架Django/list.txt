@@ -1,0 +1,57 @@
+3d array 砌puzzle name[6][1][2 ]Python WeiSir 2025-12-02_17.33.52~01.jpg
+a.captialoE() isdigit Python WeiSir 2025-12-02_15.01.47~01.jpg
+a=False or [] or {} or 0.0 Truth table Main.py Python WeiSir 2025-12-02_16.39.07~01.jpg
+Call back function  defa(x,y) tuplenamespaces RAM  main.py Python call stack wei Sir compiler last in first out 2025-12-04_16.35.38~01.jpg
+call back function def a(x) x()  def b()Python wei Sir  2025-12-04_16.00.49~01.jpg
+Call back function return function z=a, b tuple Python wei Sir  2025-12-04_15.35.47~01.jpg
+Conditional expression  Python wei Sir  2025-12-05_10.14.39~01.jpg
+Conditional expression def  if else return Python wei Sir  2025-12-05_09.41.19.jpg
+Conditional expression def  if else return Python wei Sir  2025-12-05_09.41.19~01.jpg
+Conditional expression if else 0-0  Python wei Sir  2025-12-05_10.30.23~01.jpg
+conditional expression if else 0-0 Python wei Sir  2025-12-05_10.43.27~01.jpg
+CPython Compiling Compilier Steps Lexer Paaser Bytecode Generation Optimization aCall Stack Evaluation stackWeiSir  Block stock2025-11-28_22.47.48.jpg
+Data type tuple  Hash TablePython wei Sir  2025-12-05_12.24.30~01.jpg
+Data type tuple  Hash TablePythonPython wei Sir  2025-12-05_12.57.04~01.jpg
+def a() function結構 NameSpaces Heap  return value a() a()  Python Wei Sir 2025-12-03_17.20.21~01.jpg
+def a() function結構 NameSpaces Heap  return value locals() globals() Python Wei Sir 2025-12-03_17.48.59~01.jpg
+def a() function結構 NameSpaces Heap  return value none Python Wei Sir 2025-12-03_16.49.41~01.jpg
+def a() function結構 NameSpaces Heap  return value Python Wei Sir 2025-12-03_16.48.21~01.jpg
+defba main.py  Python wei Sir  2025-12-05_09.24.59~01.jpg
+Doc strings Python 將function寫成comment def pass help WeiSir 2025-11-28_10.23.57~01~01.jpg
+f ”variable f”variable ]fill] [align] [Width] [type] fornat the value ”{'Name '_10} left alignment apple ^20  align center widthPython WeiSir 2025-12-02_15.48.31~01.jpg
+f ”variable f”variable ]fill] [align] [Width] [type] fornat the value ”{'Name '_10} left alignment Python WeiSir 2025-12-02_15.43.21~01.jpg
+f ”variable f”variable ]fill] [align] [Width] [type] fornat the value ”{'Name '_10} left alignment Python WeiSir 2025-12-02_15.45.00~01.jpg
+f-Strings print format  f_{x}+{y} Python WeiSir 2025-12-02_15.35.27~01.jpg
+f”variable ]fill] [align] [Width] [type] fornat the value ”{'Name '_10} left alignment apple ^20  -^20 align fill with dash center width Python WeiSir 2025-12-02_15.50.10~01.jpg
+f”{'app'} __ {10}    f”variable ]fill] [align] [Width] [type] fornat the value ”{'Name '_10} left alignment apple ^20  align center width Python WeiSir 2025-12-02_15.54~01.jpg
+f”{1234567：,}  f”variable ]fill] [align] [Width] [type] fornat the value ”{'Name '_10} left alignment apple ^20  -^20 align Python WeiSir 2025-12-02_15.58.19~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode n.isdigit(n) try except 第二個寫活Python WeiSir 2025-12-01_16.32.01~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode varcode .co_,consts co_ code Python WeiSir 2025-12-01_17.28.01~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode 第三個寫法 Python WeiSir 2025-12-01_16.56.19~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode 第三個寫法Python WeiSir 2025-12-01_17.22.19~01.jpg
+Import dis.dis def fib(n) if n_=2 id=len(fib) check bytecode第一個寫法 Python WeiSir 2025-12-01_16.13.31~01.jpg
+list.txt
+Print format Name %s Age %.2f len(a.capitalize()_3 )Python WeiSir 2025-12-02_15.12.08~01.jpg
+Print format Name %s Age %.2f string format str(age) Python WeiSir 2025-12-02_15.17.09~01.jpg
+Print format string concat Python WeiSir 2025-12-02_15.23.38~01.jpg
+Print format string concat stro(age) {x} .format Python WeiSir 2025-12-02_15.24.38~01.jpg
+Print format string concat {0}.format(name,age) Python WeiSir 2025-12-02_15.21.56~01.jpg
+print(txt.Format) price.2f w3schools Python WeiSir 2025-12-02_15.32.06~01.jpg
+Python Expression 冇Operator 兩個Print WeiSir 2025-11-28_09.43.57~01~01.jpg
+PythonSourceCode  WeiSir Compiler Bytecode Load global  call function pop top  load constant return value  2025-11-26_16.00.47~01.jpg
+Python對括號裡頭特別寬容 x=y=1 放入address id(x) id(y) WeiSir 2025-11-28_10.44.53~01~01.jpg
+Python考expression logic 括號優先權  Python Wei Sir 2025-12-03_16.31.02~01.jpg
+Python考expression logic 括號優先權 2025-12-03_16.26.58~01.jpg
+Python考expression logic 括號優先權 2025-12-03_16.34.37~01.jpg
+Python考expression logic 括號優先權 2025-12-03_16.34.56~01.jpg
+Python考expression logic 括號優先權Wei Sir 2025-12-03_16.07.37~01.jpg
+Rounding error 斷句Python WeiSir 2025-12-01_14.38.44~01.jpg
+Truth table b=1 and 0 and {1} Python WeiSir 2025-12-02_16.46.18~01.jpg
+Truth table defaultCitu=_Tst_ city='kl' Python WeiSir 2025-12-02_16.53.46~01.jpg
+Truth table defaultCitu=_Tst_ city='kl' Python WeiSir 2025-12-02_17.01.31~01.jpg
+Tuple 括號 Python Wei Sir 2025-12-03_15.09.04~01.jpg
+Unix Linux 歷史圖Python WeiSir wiki 2025-12-02_14.00.55~01~01.jpg
+Youtube師兄作品 李可夫同一屆Python WeiSir 2025-12-01_17.48.20~01.jpg
+Youtube師兄作品 李可夫同一屆Python WeiSir 2025-12-01_17.48.20~01~01.jpg
+Zeal comes with188 Python WeiSir 2025-12-02_14.56.34~01~01.jpg
+電腦Romding error Python WeiSir 2025-12-01_14.32.42~01.jpg
