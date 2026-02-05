@@ -7,12 +7,6 @@ Year 2025: Certificate in Python Data Analyst (332 hours),Backend Django
 
 
 Python Data Analyst Course
-1.To Introduce fundamental programming concepts, data structures and algorithms, 
-Coding & databases with Python (Class/Decorator/Method/List+Turple+Dict+Phonebook) .
-2.To Furnish knowledge of logic, computation thinking and algorithms for Data Intergration ( Numpy /Pandas -> data aggregation / joining /DataFrame Groupby & pivot_table datetime management ).
-3. To Apply algorithms to write interactive programs to process data and generate appropriate outputs(Data Visualization: Matplotlib/Plotly/Seaborn).
-4.To create Python-driven web applications or data-driven business solutions (Git/GitHub/Yahoo Finance Data/ API data etc )/\.
-5. To Share case study Basic Machine Learning/DNA analysis / Web Scraping with Beautiful Soap / Tree Algorithm/Random Forest
 6.Web Framework Development, Django with Linux environment (MVT), VS code (IDE) , Github to manage project 
 -Django forms, User authentication, Django models & Built-in features, admin panel, 
 authentication, POST, CSRF./ Restful-API
@@ -24,6 +18,20 @@ CommonMiddleware /Session Middleware /CsrfViewMiddleware
 -Creating apps -> views.py / models.py /forms.py / admin.py / urls.py
 -Basic Knowledge HTML /CSS/Bootstrap
 -Git GIT add .、commit、push、pull 、merge 、branch  : manage code changes, keep track of versions, and collaborate with team members
+
+
+1.To Introduce fundamental programming concepts, data structures and algorithms, 
+Coding & databases with Python (Class/Decorator/Method/List+Turple+Dict+Phonebook) .
+
+2.To Furnish knowledge of logic, computation thinking and algorithms for Data Intergration ( Numpy /Pandas -> data aggregation / joining /DataFrame Groupby & pivot_table datetime management ).
+
+3. To Apply algorithms to write interactive programs to process data and generate appropriate outputs(Data Visualization: Matplotlib/Plotly/Seaborn).
+
+4.To create Python-driven web applications or data-driven business solutions (Git/GitHub/Yahoo Finance Data/ API data etc )/\.
+
+5. To Share case study Basic Machine Learning/DNA analysis / Web Scraping with Beautiful Soap / Tree Algorithm/Random Forest
+
+
 
 				
 Final Project Source code : 樓價/Property analysis https://weibo.com/7573408113/Qqgkkc5w3
