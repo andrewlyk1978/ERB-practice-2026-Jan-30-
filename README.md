@@ -5,8 +5,8 @@ Year 2025: Certificate in Python Data Analyst (332 hours),Backend Django
 	Certificate in Solar Photovoltaic PV System (34hours)
 	Certificate in Networking System and Firewall Configuration 
 
-
 Python Data Analyst Course
+
 6.Web Framework Development, Django with Linux environment (MVT), VS code (IDE) , Github to manage project 
 -Django forms, User authentication, Django models & Built-in features, admin panel, 
 authentication, POST, CSRF./ Restful-API
