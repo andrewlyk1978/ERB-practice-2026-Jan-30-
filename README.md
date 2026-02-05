@@ -7,17 +7,14 @@ Professionals Skills & Training
 
 Python Data Analyst Course
 
-6.Web Framework Development, Django with Linux environment (MVT), VS code (IDE) , Github to manage project 
--Django forms, User authentication, Django models & Built-in features, admin panel, 
-authentication, POST, CSRF./ Restful-API
-
--Working of Middleware HttpRequest < => HttpResponse 
-CommonMiddleware /Session Middleware /CsrfViewMiddleware 
-/Authentication Middleware/ MessageMiddleware ) 
--Django's ORM(Object-Relational Mapping)/ Models / CRUD operations/
--Creating apps -> views.py / models.py /forms.py / admin.py / urls.py
--Basic Knowledge HTML /CSS/Bootstrap
--Git GIT add .、commit、push、pull 、merge 、branch  : manage code changes, keep track of versions, and collaborate with team members
+6.	-Web Framework Development, Django with Linux environment (MVT), VS code (IDE) ,Github to manage project 
+	-Django forms, User authentication, Django models & Built-in features, admin panel, authentication, POST, CSRF./ Restful-API
+	-Working of Middleware HttpRequest < => HttpResponse 
+	-CommonMiddleware /Session Middleware /CsrfViewMiddleware Authentication Middleware/ MessageMiddleware ) 
+	-Django's ORM(Object-Relational Mapping)/ Models / CRUD operations/
+	-Creating apps -> views.py / models.py /forms.py / admin.py / urls.py
+	-Basic Knowledge HTML /CSS/Bootstrap
+	-Git GIT add .、commit、push、pull 、merge 、branch  : manage code changes, keep track of versions, and collaborate with team members
 
 
 1.To Introduce fundamental programming concepts, data structures and algorithms, 
