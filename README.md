@@ -23,14 +23,14 @@ Python Data Analyst Course:
 	-Git GIT add .、commit、push、pull 、merge 、branch  : manage code changes, keep track of versions, and collaborate with team members
 
 
-1.To Introduce fundamental programming concepts, data structures and algorithms, 
+1.  To Introduce fundamental programming concepts, data structures and algorithms, 
 Coding & databases with Python (Class/Decorator/Method/List+Turple+Dict+Phonebook) .
 
-2.To Furnish knowledge of logic, computation thinking and algorithms for Data Intergration ( Numpy /Pandas -> data aggregation / joining /DataFrame Groupby & pivot_table datetime management ).
+2.  To Furnish knowledge of logic, computation thinking and algorithms for Data Intergration ( Numpy /Pandas -> data aggregation / joining /DataFrame Groupby & pivot_table datetime management ).
 
-3. To Apply algorithms to write interactive programs to process data and generate appropriate outputs(Data Visualization: Matplotlib/Plotly/Seaborn).
+3.  To Apply algorithms to write interactive programs to process data and generate appropriate outputs(Data Visualization: Matplotlib/Plotly/Seaborn).
 
-4.To create Python-driven web applications or data-driven business solutions (Git/GitHub/Yahoo Finance Data/ API data etc )/\.
+4. To create Python-driven web applications or data-driven business solutions (Git/GitHub/Yahoo Finance Data/ API data etc )/\.
 
 5. To Share case study Basic Machine Learning/DNA analysis / Web Scraping with Beautiful Soap / Tree Algorithm/Random Forest
 
