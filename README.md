@@ -1,6 +1,6 @@
 Professionals Skills & Training 
-Year 2025: Certificate in Python Data Analyst (332 hours),Backend Django 
 
+	Certificate in Python Data Analyst and Backend Django            
 	Certificate in BlockChain Knowledge & Application Development
 	Certificate in Solar Photovoltaic PV System (34hours)
 	Certificate in Networking System and Firewall Configuration 
